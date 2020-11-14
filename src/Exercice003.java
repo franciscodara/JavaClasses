@@ -6,6 +6,8 @@ Se salário < 1000, imposto de 5%;
 Se salário > 1000 e < 2000, imposto de 10%;
 Se salário > 2000 e < 4000, imposto de 15%;
 Se salário > 4000 imposto de 20%;
+Observação: A estrutura condicional if, quando atendida, ignora todas as condições else if
+seguintes. É possível encadear várias condições if e sequencia em casos específicos.
  */
 
 public class Exercice003 {
