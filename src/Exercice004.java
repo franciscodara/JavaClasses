@@ -3,7 +3,7 @@ Dados os valores de 1 à 7, imprima se é dia útil ou fim de semana.
  */
 public class Exercice004 {
     public static void main(String[] args) {
-        byte dia = 9;
+        byte dia = 1;
         // Tipos aceitos em Switch: byte, int, enum, short, char e String.
         switch (dia) {
             case 1:

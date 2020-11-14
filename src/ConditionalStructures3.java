@@ -1,7 +1,7 @@
 /*
 Estrutura condicional Switch.
  */
-public class ConditionalStructure3 {
+public class ConditionalStructures3 {
     public static void main(String[] args) {
         byte dia = 0;
         // Tipos aceitos em Switch: byte, int, enum, short, char e String.
